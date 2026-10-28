@@ -1,0 +1,6 @@
+@ParqueoApi_HostAddress = http://localhost:5067
+
+GET {{ParqueoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
