@@ -1,0 +1,10 @@
+[
+  { "Id": 1, "NombreProvincia": "San José", "Nombre": "Parqueo Central", "PrecioPorHora": 1200.00 },
+  { "Id": 2, "NombreProvincia": "Alajuela", "Nombre": "Parqueo Aeropuerto", "PrecioPorHora": 1500.00 },
+  { "Id": 3, "NombreProvincia": "Cartago", "Nombre": "Parqueo Basílica", "PrecioPorHora": 1000.00 },
+  { "Id": 4, "NombreProvincia": "Heredia", "Nombre": "Parqueo del Café", "PrecioPorHora": 1100.00 },
+  { "Id": 5, "NombreProvincia": "Guanacaste", "Nombre": "Parqueo Tamarindo", "PrecioPorHora": 1800.00 },
+  { "Id": 6, "NombreProvincia": "Puntarenas", "Nombre": "Parqueo del Puerto", "PrecioPorHora": 1300.00 },
+  { "Id": 7, "NombreProvincia": "Limón", "Nombre": "Parqueo Caribe", "PrecioPorHora": 1250.00 },
+  { "Id": 8, "NombreProvincia": "San José", "Nombre": "Parqueo Escazú", "PrecioPorHora": 1600.00 }
+]

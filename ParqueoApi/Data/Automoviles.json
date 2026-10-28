@@ -1,0 +1,10 @@
+[
+  { "Id": 1, "Color": "Rojo", "Anio": 2020, "Fabricante": "Toyota", "Tipo": "sedán" },
+  { "Id": 2, "Color": "Azul", "Anio": 2022, "Fabricante": "Honda", "Tipo": "sedán" },
+  { "Id": 3, "Color": "Negro", "Anio": 2019, "Fabricante": "Toyota", "Tipo": "4x4" },
+  { "Id": 4, "Color": "Blanco", "Anio": 2023, "Fabricante": "Hyundai", "Tipo": "sedán" },
+  { "Id": 5, "Color": "Gris", "Anio": 2021, "Fabricante": "Suzuki", "Tipo": "moto" },
+  { "Id": 6, "Color": "Verde", "Anio": 2018, "Fabricante": "Nissan", "Tipo": "4x4" },
+  { "Id": 7, "Color": "Plateado", "Anio": 2024, "Fabricante": "Kia", "Tipo": "sedán" },
+  { "Id": 8, "Color": "Amarillo", "Anio": 2022, "Fabricante": "Yamaha", "Tipo": "moto" }
+]

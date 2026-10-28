@@ -1,0 +1,10 @@
+[
+  { "Consecutivo": 1, "ParqueoId": 1, "AutomovilId": 1, "FechaHoraEntrada": "2026-10-20T08:00:00", "FechaHoraSalida": "2026-10-20T10:00:00" },
+  { "Consecutivo": 2, "ParqueoId": 2, "AutomovilId": 2, "FechaHoraEntrada": "2026-10-20T09:15:00", "FechaHoraSalida": "2026-10-20T11:00:00" },
+  { "Consecutivo": 3, "ParqueoId": 3, "AutomovilId": 3, "FechaHoraEntrada": "2026-10-21T07:30:00", "FechaHoraSalida": "2026-10-21T09:00:00" },
+  { "Consecutivo": 4, "ParqueoId": 4, "AutomovilId": 4, "FechaHoraEntrada": "2026-10-21T12:00:00", "FechaHoraSalida": "2026-10-21T13:30:00" },
+  { "Consecutivo": 5, "ParqueoId": 5, "AutomovilId": 5, "FechaHoraEntrada": "2026-10-22T10:00:00", "FechaHoraSalida": null },
+  { "Consecutivo": 6, "ParqueoId": 6, "AutomovilId": 6, "FechaHoraEntrada": "2026-10-22T14:45:00", "FechaHoraSalida": null },
+  { "Consecutivo": 7, "ParqueoId": 7, "AutomovilId": 7, "FechaHoraEntrada": "2026-10-23T08:20:00", "FechaHoraSalida": null },
+  { "Consecutivo": 8, "ParqueoId": 8, "AutomovilId": 8, "FechaHoraEntrada": "2026-10-23T16:10:00", "FechaHoraSalida": null }
+]
